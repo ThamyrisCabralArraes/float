@@ -1,0 +1,23 @@
+#principal {
+    border: 1px red solid;
+ background: #f4f4f4;
+}
+#noticia {
+    width: 920px;
+}
+.noticia {
+    background: rgb(241, 220, 210);
+    padding: 5px;
+    width: 280px;
+    margin: 7px;
+    float: left;
+}
+.galeria {
+    width: 150px;
+    float: left;
+    margin: 70px;
+    border: 10px sandybrown solid ;
+}
+#imagens {
+    clear: left;
+}
